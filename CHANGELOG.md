@@ -1,1 +1,2 @@
 - V1.0.0 creacion de microservicio
+- V1.2.0 creacion de endpoint de consultar al usuario
