@@ -1,3 +1,4 @@
 - V1.0.0 creacion de microservicio
 - V1.1.0 creacion de endpoint de consultar al usuario
 - V1.1.1 correccion de estructura
+- V1.2.0 creacion de dockerfile
